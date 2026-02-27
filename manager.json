@@ -1,0 +1,5 @@
+{"emp_id":"1","name":"Alice","salary":"90000","manager_id":"0"}
+{"emp_id":"2","name":"Bob","salary":"85000","manager_id":"1"}
+{"emp_id":"3","name":"Charlie","salary":"95000","manager_id":"1"}
+{"emp_id":"4","name":"David","salary":"88000","manager_id":"2"}
+{"emp_id":"5","name":"Eve","salary":"87000","manager_id":"2"}
